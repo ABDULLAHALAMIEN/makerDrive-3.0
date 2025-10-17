@@ -1,11 +1,10 @@
 {
-    "name": "bluetooth zoombit",
+    "name": "Maker Drive",
     "version": "0.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "pxt-rekabit": "github:faridskyman/pxt-rekabit#v1.3.3",
         "bluetooth": "*"
     },
     "files": [
@@ -13,7 +12,7 @@
         "main.ts",
         "README.md",
         "custom.ts"
-    ],
+    ], 
     "testFiles": [
         "test.ts"
     ],
